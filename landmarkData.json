@@ -1,0 +1,195 @@
+[
+    {
+        "name": "東京タワー",
+        "category": "塔",
+        "prefecture": "東京都",
+        "country": "日本",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "area": "東京都　港区",
+        "coordinates": {
+            "longitude": 139.745431,
+            "latitude": 35.658584
+        },
+        "description": "東京タワーは、東京都港区芝公園内にある電波塔で、正式名称は（日本電波塔）という。塔博士とも称される内藤多仲らにより設計され、1958年12月23日に竣工された。高さは333メートルあり、当時は日本一の高さを誇った。現在は、自立式鉄塔に限れば、東京スカイツリーに次ぐ日本で2番目に高い建造物である。修学旅行などにおける定番の行き先として人気があり、現在でも年間300万人程度来塔している。ノッポン兄弟というキャラクターがいる。",
+        "imageName": "東京タワー"
+    },
+    {
+        "name": "東京スカイツリー",
+        "category": "塔",
+        "prefecture": "東京都",
+        "country": "日本",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "area": "東京都　墨田区",
+        "coordinates": {
+            "longitude": 139.810718,
+            "latitude": 35.710057
+        },
+        "description": "東京スカイツリーは東京墨田区にある電波塔である。2012年2月29日に完成して以来、観光・商業施設として人気である。高さは634mであり、電波塔としては世界一である。電波塔を含めた周辺施設は東京スカイツリータウンと言われており、すみだ水族館を初めさまざまな商業施設が入っている。",
+        "imageName": "東京スカイツリー"
+    },
+    {
+        "name": "札幌市時計台",
+        "category": "建物",
+        "prefecture": "北海道",
+        "country": "日本",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "area": "北海道　札幌市",
+        "coordinates": {
+            "longitude": 141.353490,
+            "latitude": 43.062527
+        },
+        "description": "札幌市時計台は北海道札幌市中央区にある歴史的建造物である。正式名称は旧札幌農学校演武場と称する。三角屋根の上に大時計を乗せた特徴的な外観の建造物であり、時計台としては日本最古である。北海道大学発祥の地であるため、売店には北海道大学グッズも取り扱っている。",
+        "imageName": "札幌市時計台"
+    },
+    {
+        "name": "横浜中華街",
+        "category": "街",
+        "prefecture": "神奈川県",
+        "country": "日本",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "area": "神奈川県　横浜市",
+        "coordinates": {
+            "longitude": 139.646392,
+            "latitude": 35.442422
+        },
+        "description": "横浜中華街は神奈川県横浜市にある中華街である。中国各地の上海路、中山路、福建路などの地名を冠した路地が交差している。所在地である横浜市中区における中国人人口は6000人を超える。日本最大かつ東アジア最大の中華街である。",
+        "imageName": "横浜中華街"
+    },
+    {
+        "name": "京都タワー",
+        "category": "塔",
+        "prefecture": "京都府",
+        "country": "日本",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "area": "京都府下京区",
+        "coordinates": {
+            "longitude": 135.759324,
+            "latitude": 34.987530
+        },
+        "description": "京都タワーは京都市下京区にある塔である。京都駅中央口前に所在し、台座となっている京都タワービルを含めた高さは131mあり、京都市内では最も高い建造物である。白い円筒状のデザインは蝋燭をイメージした優雅なものである。たわわちゃんというマスコットキャラクターが存在する。",
+        "imageName": "京都タワー"
+    },
+    {
+        "name": "平等院鳳凰堂",
+        "category": "寺社仏閣",
+        "prefecture": "京都府",
+        "country": "日本",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "area": "京都府　宇治市",
+        "coordinates": {
+            "longitude": 135.807678,
+            "latitude": 34.889290
+        },
+        "description": "平等院は京都市宇治市にある寺院である。鳳凰堂は国宝でもあり、世界に広く知られている。創建されたのは永承8年（1053年）で当時は鳳凰堂という故障ではなく、阿弥陀堂あるいは御堂とされていた。十円玉に描かれている。",
+        "imageName": "平等院鳳凰堂"
+    },
+    {
+        "name": "金閣寺",
+        "category": "寺社仏閣",
+        "prefecture": "京都府",
+        "country": "日本",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "area": "京都府　京都市",
+        "coordinates": {
+            "longitude": 135.7292431,
+            "latitude": 35.039370
+        },
+        "description": "金閣寺は京都市北区に所在しており、正式には北山鹿苑禅寺（ぼくざんろくおんぜんじ）である。現在の金閣寺は1950年に放火により焼失した後に再建されたものである。建物内外に金箔が貼られているため金閣寺として知られている。",
+        "imageName": "金閣寺"
+    },
+    {
+        "name": "厳島神社",
+        "category": "寺社仏閣",
+        "prefecture": "広島県",
+        "country": "日本",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "area": "広島県　廿日市市",
+        "coordinates": {
+            "longitude": 132.319828,
+            "latitude": 34.295989
+        },
+        "description": "厳島神社（公式表記：嚴島神社）は広島県廿日市市の宮島にある神社である。海上に立つ高さ16mの大鳥居は日本三代鳥居の一つである。1996年にユネスコの世界文化遺産に登録されている。",
+        "imageName": "厳島神社"
+    },
+    {
+        "name": "伏見稲荷大社",
+        "category": "寺社仏閣",
+        "prefecture": "京都府",
+        "country": "日本",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "area": "京都府　伏見区",
+        "coordinates": {
+            "longitude": 135.772671,
+            "latitude": 34.967140
+        },
+        "description": "伏見稲荷大社は京都市伏見区にある神社である。通称「お稲荷さん」。全国に約3万社あると言われる稲荷神社の総本社であり、初詣では近畿地方の社寺で最多の参拝者を集める。朱塗の鳥居が並んだ千本鳥居が幻想的である。",
+        "imageName": "伏見稲荷大社"
+    },
+    {
+        "name": "歌舞伎座",
+        "category": "建物",
+        "prefecture": "東京都",
+        "country": "日本",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "area": "東京都　中央区",
+        "coordinates": {
+            "longitude": 139.767768,
+            "latitude": 35.669424
+        },
+        "description": "歌舞伎座は、東京都中央区にある歌舞伎専用の劇場である。背後にある歌舞伎座タワーにはdwango本社も入居している。",
+        "imageName": "歌舞伎座"
+    },
+    {
+        "name": "姫路城",
+        "category": "城",
+        "prefecture": "兵庫県",
+        "country": "日本",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "area": "兵庫県　姫路市",
+        "coordinates": {
+            "longitude": 134.693904,
+            "latitude": 34.839449
+        },
+        "description": "姫路城は兵庫県姫路市にある城である。松本城は現存する五重六階の天守の中で日本最古の国宝の城です。江戸時代初期に建てられた天守など主要建築物が現存し、国宝や重要文化財に指定されている。白い外観をしており、別名を白鷺城という。",
+        "imageName": "姫路城"
+    },
+    {
+        "name": "松本城",
+        "category": "城",
+        "prefecture": "長野県",
+        "country": "日本",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "area": "長野県　松本市",
+        "coordinates": {
+            "longitude": 137.968867,
+            "latitude": 36.238653
+        },
+        "description": "松本城は長野県松本市にある城である。天守は国宝に指定され、城跡は史跡に指定されている。",
+        "imageName": "松本城"
+    }
+
+]
